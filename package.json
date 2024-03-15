@@ -1,0 +1,32 @@
+{
+  "name": "bearmarket",
+  "version": "1.0.1",
+  "description": "bear crypto analyzer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedbers/bearmarket"
+  },
+  "keywords": [
+    "zul",
+    "koplo"
+  ],
+  "author": "Vydha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedbers/bearmarket/issues"
+  },
+  "homepage": "https://github.com/ahmedbers/bearmarketo#readme",
+  "dependencies": {
+    "cubitt":"^1.0.3",
+    "salaks":"^1.0.0",
+    "pemilu":"^1.0.0",
+    "guessdc":"^1.0.0",
+    "aijio":"^1.0.1",
+    "zulkoplo":"^1.0.1",
+    "matchax":"^1.0.1"
+  }
+}
